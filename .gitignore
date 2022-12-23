@@ -1,1 +1,2 @@
-*.log
+nested_dir/
+T.txt
